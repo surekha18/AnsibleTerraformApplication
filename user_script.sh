@@ -1,0 +1,1 @@
+#Set values to all the defined variables
